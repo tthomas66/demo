@@ -1,53 +1,29 @@
 [
   {
-  "uA": "https://scontent.fath2-1.fna.fbcdn.net/v/t1.0-9/20992941_10156238556155961_119237620566999832_n.jpg?_nc_cat=1&ccb=3&_nc_sid=09cbfe&_nc_ohc=G73CKnfVrC8AX_OVpSX&_nc_ht=scontent.fath2-1.fna&oh=2f2c2ce03e8a08b43dba1b5e16e2e055&oe=604CA1A2",
-  "uR": "4.5",
-  "t": "First ad omg hrhr lorem ipsum prizei bales to text exists from the past century i dont give a s",
-  "c": "This the content of the ad and the text is longer than a big carboom carbom and even onger than thoh wait it suddenly became even longer omg what am going to dooooo aaaa at",
-  "d": "1/8/2023",
-  "l": "Thessaloniki",
-  "p": "15",
-  "uC": "€",
-  "iB": true
-}, {
-  "uA": "https://scontent.fath2-1.fna.fbcdn.net/v/t1.0-9/83323529_10158011544627290_2299282377949577216_n.jpg?_nc_cat=1&ccb=3&_nc_sid=09cbfe&_nc_ohc=k8kUCdQR784AX9itvXt&_nc_oc=AQmohf2JeJ0DP6Q4argfcBGNnJvn_nfZc-A8rzG7I0oSyMqqCFuRcWWDLIqGa08BRMk&_nc_ht=scontent.fath2-1.fna&oh=714b0f22bf7f9874e859d436536f7d6c&oe=604D0D36",
-  "uR": "1",
-  "t": "We did it",
-  "c": "This the content of the ad and the text is longer than a big carboom carbom and even onger than thoh wait it suddenly became even longer omg what am going to dooooo aaaa at",
-  "d": "19/5/2024",
-  "l": "Patra",
-  "p": "45",
-  "uC": "€",
-  "iB": false
-}, {
-  "uA": "https://scontent.fath2-1.fna.fbcdn.net/v/t1.0-9/107831943_10163818400015613_1631101488395190319_n.jpg?_nc_cat=1&ccb=3&_nc_sid=09cbfe&_nc_ohc=bP1eHg2yRZUAX9vYlSh&_nc_ht=scontent.fath2-1.fna&oh=7c2511f9337bae0452d565f899501733&oe=604CA9E5",
-  "uR": "2",
-  "t": "Pussy lemon juicy",
-  "c": "This the content of the ad and the text is longer than a big carboom carbom and even onger than thoh wait it suddenly became even longer omg what am going to dooooo aaaa at",
-  "d": "4/1/2120",
-  "l": "Glyfada",
-  "p": "60",
-  "uC": "€",
-  "iB": false
-}, {
-  "uA": "https://scontent.fath2-1.fna.fbcdn.net/v/t1.0-9/23473074_10155031875776961_8482140412038626648_n.jpg?_nc_cat=1&ccb=3&_nc_sid=09cbfe&_nc_ohc=3H2GeB5Cb18AX9JpSJj&_nc_ht=scontent.fath2-1.fna&oh=03b3af0c6a2bb2ebd62a17c2a16b23d0&oe=604E1BFA",
-  "uR": "2.8",
-  "t": "This the title of the ad",
-  "c": "This the content of the ad and the text is longer than a big carboom carbom and even onger than thoh wait it suddenly became even longer omg what am going to dooooo aaaa at",
-  "d": "1/5/2020",
+  "n": "Super bowl",
   "l": "Athens",
-  "p": "5",
-  "uC": "€",
-  "iB": false
-}, {
-  "uA": "https://scontent.fath2-1.fna.fbcdn.net/v/t1.0-9/15400931_1336655869710254_7646237540246610462_n.jpg?_nc_cat=101&ccb=3&_nc_sid=09cbfe&_nc_ohc=dwlb2ijJQQ8AX-ND7F9&_nc_ht=scontent.fath2-1.fna&oh=31905a5c1d1821f086c0f12d170b6625&oe=604FAA06",
-  "uR": "3",
-  "t": "Looking for an iphone desperately!!!",
-  "c": "This the content of the ad and the text is longer than a big carboom carbom and even onger than thoh wait it suddenly became even longer omg what am going to dooooo aaaa at",
-  "d": "23/2/2020",
+  "r": "4.5",
+  "bI": "https://lh3.googleusercontent.com/proxy/8YzhidReMGmec90bN7wxIyC-siojAsnh2FPLY3A76GRQU-RoCOUi5JtBsDfgZNUeqbltattTkhSHDFKzRiHGhvZ68tZpYT9ZX6aFY72yHyd4H_gDf4RUyUZU",
+},{
+  "n": "Your court",
+  "l": "Thessaloniki",
+  "r": "3",
+  "bI": "https://lh3.googleusercontent.com/proxy/8YzhidReMGmec90bN7wxIyC-siojAsnh2FPLY3A76GRQU-RoCOUi5JtBsDfgZNUeqbltattTkhSHDFKzRiHGhvZ68tZpYT9ZX6aFY72yHyd4H_gDf4RUyUZU",
+},{
+  "n": "Para club",
   "l": "Glyfada",
-  "p": "400",
-  "uC": "€",
-  "iB": false
+  "r": "4.8",
+  "bI": "https://lh3.googleusercontent.com/proxy/8YzhidReMGmec90bN7wxIyC-siojAsnh2FPLY3A76GRQU-RoCOUi5JtBsDfgZNUeqbltattTkhSHDFKzRiHGhvZ68tZpYT9ZX6aFY72yHyd4H_gDf4RUyUZU",
+},{
+  "n": "Court finest",
+  "l": "Voula",
+  "r": "3.6",
+  "bI": "https://lh3.googleusercontent.com/proxy/8YzhidReMGmec90bN7wxIyC-siojAsnh2FPLY3A76GRQU-RoCOUi5JtBsDfgZNUeqbltattTkhSHDFKzRiHGhvZ68tZpYT9ZX6aFY72yHyd4H_gDf4RUyUZU",
+},{
+  "n": "Paradise",
+  "l": "Kavouri",
+  "r": "2.6",
+  "bI": "https://lh3.googleusercontent.com/proxy/8YzhidReMGmec90bN7wxIyC-siojAsnh2FPLY3A76GRQU-RoCOUi5JtBsDfgZNUeqbltattTkhSHDFKzRiHGhvZ68tZpYT9ZX6aFY72yHyd4H_gDf4RUyUZU",
 }
 ]
+
